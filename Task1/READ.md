@@ -14,11 +14,11 @@
 ##### this shows a particular event (interaction with user)
 
 
-####class diagram
-<img src="class diagram.JPG">
+#### class diagram
+<img src="class-diagram.JPG">
 
 ##### this shows class attributes,methods,inheritance,...which are used to build system
 
 
 
-##this a video to system its link:<a href="">click here</a>
+## this a video to system its link:<a href="">click here</a>
