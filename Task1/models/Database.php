@@ -1,8 +1,8 @@
 <?php
 	class Database {
-		public static $db = null;
+		protected static $db = null;
 		
-		protected static function connect($database, $uid, $pwd) {
+		public static function connect($database, $uid, $pwd) {
 			if(!empty(Database::$db)) return;
 
 			$dsn = "mysql:host=localhost;dbname=$database";
