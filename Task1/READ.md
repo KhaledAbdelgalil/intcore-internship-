@@ -11,7 +11,7 @@
 
 #### sequence diagram:
 <img src="img/sequence diagram of register.JPG">
-##### this shows a particular event (interaction with user)
+#####  this shows a particular event (interaction with user)
 
 
 #### class diagram
