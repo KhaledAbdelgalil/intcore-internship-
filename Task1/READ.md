@@ -14,9 +14,10 @@
 #####  this shows a particular event (interaction with user)
 
 
-#### class diagram
+####  class diagram
 
 <img src="img/class.JPG">
+
 
 #####  this shows class attributes,methods,inheritance,...which are used to build system
 
