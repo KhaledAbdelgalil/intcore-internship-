@@ -15,9 +15,10 @@
 
 
 #### class diagram
+
 <img src="img/class.JPG">
 
-##### this shows class attributes,methods,inheritance,...which are used to build system
+#####  this shows class attributes,methods,inheritance,...which are used to build system
 
 
 
