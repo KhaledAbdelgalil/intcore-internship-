@@ -2,7 +2,7 @@
 	class Database {
 		public static $db = null;
 		
-		public static function connect($database, $uid, $pwd) {
+		protected static function connect($database, $uid, $pwd) {
 			if(!empty(Database::$db)) return;
 
 			$dsn = "mysql:host=localhost;dbname=$database";
